@@ -2,7 +2,7 @@
 
 🎓 **BSc CSIT Student**  
 💻 Beginner Programmer | Learning step by step  
-🚀 Exploring **C Programming**, **HTML**, and **CSS**
+🚀 Exploring **C Programming**, **HTML**, **CSS** ,and **JS**
 
 ---
 
@@ -53,4 +53,5 @@
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.*
+
 
