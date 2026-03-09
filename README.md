@@ -40,7 +40,7 @@
 
 ## 🎯 Current Goals
 - 🔹 Master C fundamentals
-- 🔹 Build small projects using HTML & CSS
+- 🔹 Build small projects using HTML , CSS & JS
 - 🔹 Upload code regularly on GitHub
 - 🔹 Stay consistent 💯
 
@@ -53,5 +53,6 @@
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.*
+
 
 
