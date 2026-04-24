@@ -39,7 +39,7 @@
 ---
 
 ## 🎯 Current Goals
-- 🔹 Master C fundamentals
+- 🔹 Master C fundamentals and be a Data engineer 
 - 🔹 Build small projects using HTML , CSS & JS
 - 🔹 Upload code regularly on GitHub
 - 🔹 Stay consistent 💯
