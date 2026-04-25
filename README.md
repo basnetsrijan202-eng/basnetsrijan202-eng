@@ -2,7 +2,7 @@
 
 🎓 **BSC CSIT Student**  
 💻 Beginner Programmer | Learning step by step  
-🚀 Exploring **C Programming**, **HTML**, **CSS** ,and **JS**
+🚀 Exploring **C Programming**, **HTML**, **CSS** and **JS**
 
 ---
 
