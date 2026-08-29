@@ -9,7 +9,7 @@
 ## 🧠 About Me
 - 🌱 Currently learning **C (Beginner Level)**
 - 🎨 Building basic websites using **HTML & CSS & JS**
-- 📚 Improving problem-solving and coding fundamentals.
+- 📚 Improving problem-solving and coding fundamentals
 - 💪 Consistent learner, aiming to grow every day
 ---
 
